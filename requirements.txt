@@ -1,2 +1,4 @@
 requirements.txt
 
+git config --global user.name "AnnElsaJoy-projects"
+git config --global user.email "projectannelsa@gmail.com"
